@@ -2,11 +2,9 @@
 
 - 🌱 I’m currently studying Software Engineering at ENSET Mohammedia, Morocco.
 
-- All of my projects are available at [https://jabbour.tech](https://jabbour.tech)
+- All of my projects are available at [https://jabbour.tech](https://jabbour.netlify.app/)
 
 - 📫 How to reach me **younesjabbour.pro@gmail.com**
-
-- 📄 Know about my experiences [resume.pdf](https://drive.google.com/file/d/1R_ppHBsaAV8r2Iz-b0P3gaLjylBIybZO/view?usp=sharing)
 
 - ⚡ Fun fact: I love solving problems through code and I'm always eager to learn something new.
 
